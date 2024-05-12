@@ -1,4 +1,4 @@
-![I am mowmik](https://github.com/mowmik/mowmik/blob/main/code.png))
+![I am mowmik](https://github.com/mowmik/mowmik/blob/main/code.png)
 
 <h1 align="center">Hi 👋, I'm Mowmik Saroar</h1>
 <h3 align="center">Programmer | Speed Learner</h3>
